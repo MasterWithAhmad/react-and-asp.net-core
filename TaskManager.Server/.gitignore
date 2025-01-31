@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore local development files
+appsettings.Development.json
+
+# Ignore NuGet files
+*.nupkg
+packages/
+
+# Ignore Rider/VS Code files
+.idea/
+.vscode/
+
